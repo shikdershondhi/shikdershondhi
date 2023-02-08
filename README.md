@@ -9,12 +9,12 @@
       <img src="https://img.shields.io/badge/WEBSITE-green?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 
-<a href="https://github.com/ish-wtag">
+<a href="https://github.com/shikdershondhi">
       <img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github&logoColor=white" alt="Facebook Badge"/>
     </a>
 
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ish-wtag&style=flat-square&color=blueviolet" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=shikdershondhi&style=flat-square&color=blueviolet" alt=""/>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -53,9 +53,9 @@ I am a Full Stack QA Automation Engineer <img src="https://media.giphy.com/media
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ish-wtag&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shikdershondhi&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ish-wtag&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikdershondhi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
