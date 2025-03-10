@@ -9,8 +9,8 @@
       <img src="https://img.shields.io/badge/WEBSITE-green?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 
-<a href="https://github.com/ish-wtag">
-      <img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github&logoColor=white" alt="Facebook Badge"/>
+<a href="https://github.com/shikder-klikit">
+      <img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
     </a>
 
   </div>
