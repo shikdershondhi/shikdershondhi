@@ -56,14 +56,12 @@ I am a Full Stack QA Automation Engineer <img src="https://media.giphy.com/media
 ---
 
 ### :fire: My personal Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shikdershondhi)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikdershondhi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :fire: My office Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shikder-klikit)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikder-klikit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
