@@ -48,6 +48,9 @@ I am a Full Stack QA Automation Engineer <img src="https://media.giphy.com/media
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="CY" **alt="CY" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="playwright" **alt="playwright" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/k6/k6-original.svg" title="K6" **alt="K6" width="40" height="40"/>
 </div>
 
 ---
